@@ -89,25 +89,25 @@ footer {
 }
 
 .f1 h1 {
-    color: blue;
+    color: rgb(255, 0, 0);
     font-size: larger;
     font-weight: bold;
 }
 
 .f1 p {
-    color: blue;
+    color: rgb(255, 0, 0);
     font-size: medium;
     font-weight: normal;
 }
 
 .f2 h1 {
-    color: blue;
+    color: rgb(255, 0, 0);
     font-size: larger;
     font-weight: bold;
 }
 
 .f2 li {
-    color: blue;
+    color: rgb(255, 0, 0);
     font-size: medium;
     font-weight: normal;
 }
