@@ -85,7 +85,7 @@ footer {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr;
-    background-color: rgb(182, 97, 97);
+    background-color: rgb(97, 117, 182);
 }
 
 .f1 h1 {
